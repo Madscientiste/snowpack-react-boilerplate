@@ -1,0 +1,15 @@
+@import "./theme.scss";
+
+// here you put your own classes if you need one
+
+body,
+html {
+    overflow: hidden;
+    height: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
