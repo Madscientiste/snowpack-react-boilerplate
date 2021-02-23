@@ -1,9 +1,9 @@
-# Snowpack + React + Scss
+# Snowpack + React + Bulma SCSS
 
-I made this so i can avoid wasting 1 hour each time i create a new project since 70% of them uses this exact template,
-and also i have a memory of a fish, so i end up forgetting how i did stuff.
+I made this so i can avoid wasting 1 hour each time i create a new project, since 70% of them uses this exact template.
+And also i have a memory of a fish, so i end up forgetting how i did stuff.
 
-feel free to contribute if you feel like something is missing
+feel free to contribute if you feel like something is missing.
 
 ## How to use
 
