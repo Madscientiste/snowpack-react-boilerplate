@@ -8,7 +8,7 @@ feel free to contribute if you feel like something is missing
 ## How to use
 
 ```git
-    npm i 
+npm i 
 ```
 
 ## Available Scripts
