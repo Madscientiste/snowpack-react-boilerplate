@@ -6,7 +6,11 @@ module.exports = {
     },
 
     devOptions: {
-        open: 'none'
+        open: "none",
+    },
+
+    alias: {
+        "@styles": "./src/styles",
     },
 
     plugins: [
